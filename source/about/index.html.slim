@@ -1,0 +1,17 @@
+div class="prose lg:prose-xl prose-code:before:hidden prose-code:after:hidden prose-headings:font-serif"
+  h1 About
+
+  = image_tag "profile.png", class: "w-52 h-52 rounded-full object-cover"
+  div Hello 👋
+  p My name is Quentin Gaultier
+  p I am a passionated full stack engineer with 15y+ of experience and currently working as a backend engineer in the ruby ecosystem.
+  p On my free time I go <span class="line-through text-gray-400">kite-surfing, wing-foiling, play chess</span> take care of my son.
+
+  .flex.gap-4.items-center
+    a href="https://www.linkedin.com/in/quentin-gaultier-9b995a41/" class="inline-block"
+      = image_tag "linkedin.png", class: "w-8 h-8 rounded-full object-cover"
+
+    a href="https://github.com/gaultierq" class="inline-block"
+      = image_tag "github-mark.png", class: "w-8 h-8 rounded-full object-cover"
+
+    = link_to "Resume", "/resume", class: "inline-block"

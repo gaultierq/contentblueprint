@@ -1,0 +1,15 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Quentin Gaultier <quentin.gaultier@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "highlight.js": "^11.11.1",
+    "tailwindcss": "^3.4.3",
+    "tailwindcss-animate": "^1.0.7",
+    "tocbot": "^4.32.2"
+  },
+  "dependencies": {}
+}
