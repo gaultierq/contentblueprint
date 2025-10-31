@@ -7,7 +7,16 @@ module.exports = {
     "./config.rb",
     "./lib/**/*.rb"
   ],
-  safelist: [ 'hover:underline', 'hover:cursor-pointer', 'bg-blue-100'],
+  safelist: [
+    'hover:underline',
+    'hover:cursor-pointer',
+    'bg-blue-100',
+    'bg-green-100',
+    'bg-purple-100',
+    'text-blue-800',
+    'text-green-800',
+    'text-purple-800',
+  ],
   theme: {
 
     extend: {

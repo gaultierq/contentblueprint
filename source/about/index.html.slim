@@ -1,17 +1,60 @@
-div class="prose lg:prose-xl prose-code:before:hidden prose-code:after:hidden prose-headings:font-serif"
-  h1 About
+---
+title: About Me
+---
 
-  = image_tag "profile.png", class: "w-52 h-52 rounded-full object-cover"
-  div Hello 👋
-  p My name is Quentin Gaultier
-  p I am a passionated full stack engineer with 15y+ of experience and currently working as a backend engineer in the ruby ecosystem.
-  p On my free time I go <span class="line-through text-gray-400">kite-surfing, wing-foiling, play chess</span> take care of my son.
+section class="py-20"
+  div class="container mx-auto px-6"
+    div class="max-w-4xl mx-auto"
+      h1 class="text-5xl font-bold text-gray-900 mb-8" Catherine Ashley
 
-  .flex.gap-4.items-center
-    a href="https://www.linkedin.com/in/quentin-gaultier-9b995a41/" class="inline-block"
-      = image_tag "linkedin.png", class: "w-8 h-8 rounded-full object-cover"
+      div class="prose prose-lg max-w-none"
+        p class="text-xl text-gray-700 mb-8"
+          | Bilingual (fr-en) tech enthusiast with expertise in digital content marketing, creation, and strategy, bolstered by a background in anthropology and eight years in tech and gaming, including project management. B2B & B2C.
 
-    a href="https://github.com/gaultierq" class="inline-block"
-      = image_tag "github-mark.png", class: "w-8 h-8 rounded-full object-cover"
+        p Coming from a knowledge management background, I've honed my writing skills to create engaging and informative content that matters.
 
-    = link_to "Resume", "/resume", class: "inline-block"
+        h2 class="text-3xl font-bold text-gray-900 mt-12 mb-6" Skills & Expertise
+
+        div class="grid md:grid-cols-2 gap-8 mb-12"
+          div
+            h3 class="text-xl font-semibold mb-4" Content Strategy
+            ul class="list-disc pl-6 space-y-2"
+              li Content planning and calendar management
+              li Audience research and persona development
+              li Content governance and workflow optimization
+              li Multi-channel content distribution
+
+          div
+            h3 class="text-xl font-semibold mb-4" Content Marketing
+            ul class="list-disc pl-6 space-y-2"
+              li Social media campaign development
+              li Email marketing strategy
+              li SEO content optimization
+              li Analytics and performance tracking
+
+          div
+            h3 class="text-xl font-semibold mb-4" Copywriting
+            ul class="list-disc pl-6 space-y-2"
+              li Website copy and landing pages
+              li Blog posts and articles
+              li Marketing collateral
+              li Technical documentation
+
+          div
+            h3 class="text-xl font-semibold mb-4" Project Management
+            ul class="list-disc pl-6 space-y-2"
+              li Cross-functional team coordination
+              li Agile methodology
+              li Stakeholder communication
+              li Timeline and budget management
+
+        h2 class="text-3xl font-bold text-gray-900 mt-12 mb-6" Background
+
+        p My background in cultural anthropology has given me strong research and analytical skills and a global perspective. This unique foundation enables me to craft authentic narratives and content strategies that resonate across cultures.
+
+        p With over a decade of experience working in both French and English across the tech and gaming industries, I bring a comprehensive understanding of digital content creation and strategy to every project.
+
+        div class="mt-12 p-6 bg-blue-50 rounded-lg"
+          h3 class="text-xl font-semibold mb-4" Let's Work Together
+          p Ready to elevate your content strategy? I'd love to hear about your project.
+          = link_to "Get in touch", "/contact", class: "inline-block mt-4 bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700 transition"

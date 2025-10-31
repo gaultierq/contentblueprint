@@ -1,19 +1,38 @@
-main class="prose lg:prose-xl prose-code:before:hidden prose-code:after:hidden prose-headings:font-serif"
-  h1 Recent Articles
-  ul
-    - blog.articles[0...10].each do |article|
-      li = link_to article.title, article
-      span.text-sm.font-semibold = article.date.strftime('%b %e %Y')
-      span.ml-2
-        - article.tags.each do |tag|
-          span.tag.text-sm.mr-1 = tag
+---
+title: Homepage
+---
 
-      / h2.text-3xl.font-serif.font-semibold Tags
-      / ol
-      /   - blog.tags.each do |tag, articles|
-      /     li = link_to "#{tag} (#{articles.size})", tag_path(tag)
-      / h2.text-3xl.font-serif.font-semibold By Year
-      / ol
-      /   - blog.articles.group_by { |a| a.date.year }.each do |year, articles|
-      /     li = link_to "#{year} (#{articles.size})", blog_year_path(year)
+section class="bg-gradient-to-b from-blue-50 to-white py-20"
+  div class="container mx-auto px-6"
+    div class="max-w-4xl mx-auto text-center"
+      img src=image_path('profile.jpg') alt="Catherine Ashley" class="w-40 h-40 rounded-full mx-auto mb-8 object-cover"
+      h1 class="text-5xl font-bold text-gray-900 mb-4"
+        | I'm Catherine Ashley,
+      h2 class="text-4xl font-semibold text-blue-600 mb-6"
+        | a Content Strategist
+      p class="text-xl text-gray-700 mb-8"
+        | With over a decade of experience in the tech and gaming industries working both in French and English
+      = link_to "Get in touch", "/contact", class: "inline-block bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition"
 
+section class="py-20"
+  div class="container mx-auto px-6"
+    div class="max-w-4xl mx-auto"
+      h2 class="text-3xl font-bold text-gray-900 mb-8 text-center" About Me
+      div class="prose prose-lg mx-auto"
+        p My background in cultural anthropology has given me strong research and analytical skills and a global perspective, enabling me to craft authentic narratives and content strategies that resonate across cultures.
+        p Coming from a knowledge management background, I've honed my writing skills to create engaging and informative content that matters. With eight years in tech and gaming, including project management experience in both B2B and B2C contexts, I bring a comprehensive understanding of digital content marketing, creation, and strategy.
+
+section class="bg-gray-50 py-20"
+  div class="container mx-auto px-6"
+    div class="max-w-4xl mx-auto text-center"
+      h2 class="text-3xl font-bold text-gray-900 mb-12" What I Do
+      div class="grid md:grid-cols-3 gap-8"
+        div class="bg-white p-6 rounded-lg shadow-sm"
+          h3 class="text-xl font-semibold text-gray-900 mb-3" Content Strategy
+          p class="text-gray-600" Developing comprehensive content strategies that align with business goals and audience needs.
+        div class="bg-white p-6 rounded-lg shadow-sm"
+          h3 class="text-xl font-semibold text-gray-900 mb-3" Content Marketing
+          p class="text-gray-600" Creating and managing campaigns that drive engagement and conversion across digital channels.
+        div class="bg-white p-6 rounded-lg shadow-sm"
+          h3 class="text-xl font-semibold text-gray-900 mb-3" Copywriting
+          p class="text-gray-600" Crafting compelling copy that converts, from landing pages to email campaigns and beyond.
