@@ -5,5 +5,5 @@ $ source .env
 
 ```shell
 # import current dns records
-terraform import ovh_domain_zone_record.root_a gaultier.dev
+terraform import ovh_domain_zone_record.root_a contentblueprint.ovh
 ```
