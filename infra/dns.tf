@@ -34,3 +34,11 @@ resource "ovh_domain_zone_record" "main-4" {
   ttl       = 3600
 }
 
+resource "ovh_domain_zone_record" "cname_www" {
+  zone      = "contentblueprint.ovh"
+  fieldtype = "CNAME"
+  subdomain = "www"
+  target    = "gaultierq.github.io."
+  ttl       = 3600
+}
+

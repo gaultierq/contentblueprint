@@ -12,7 +12,7 @@ html class="h-full"
     = stylesheet_link_tag "site"
     = javascript_importmap_tags
 
-  body class="h-full flex flex-col bg-white"
+  body class="h-full flex flex-col"
     header class="border-b"
       nav class="container mx-auto px-6 py-6 flex items-center justify-between"
         = link_to "/index.html", class: "flex items-center" do
@@ -21,8 +21,6 @@ html class="h-full"
           = link_to "About me", "/about", class: "text-gray-700 hover:text-gray-900"
           = link_to "Portfolio", "/portfolio", class: "text-gray-700 hover:text-gray-900"
           = link_to "Contact", "/contact", class: "text-gray-700 hover:text-gray-900"
-          a href="https://x.com/_DiscoLimonade" target="_blank" rel="noopener" class="text-gray-700 hover:text-gray-900"
-            span X
 
     main class="flex-1"
       article class="py-12 md:py-20"

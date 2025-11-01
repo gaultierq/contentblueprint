@@ -19,9 +19,28 @@ At Ubisoft, I led the editorial team responsible for creating all internal knowl
 
 ## Videos
 
-- [Watch on YouTube](https://www.youtube.com/watch?v=vqEcFyq-EE4)
-- [Watch on YouTube](https://www.youtube.com/watch?v=Ah8ejc2ScEQ)
-- [Watch on YouTube](https://www.youtube.com/watch?v=zO4XIpSOYak)
-- [Watch on YouTube](https://www.youtube.com/watch?v=i5sg4nFjGTU)
-- [Watch on YouTube](https://www.youtube.com/watch?v=5BB96y-zSdQ)
-- [Watch on YouTube](https://www.youtube.com/watch?v=MU3UB_bVmUA)
+<div class="grid md:grid-cols-2 gap-8 not-prose">
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vqEcFyq-EE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ah8ejc2ScEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/zO4XIpSOYak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/i5sg4nFjGTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/5BB96y-zSdQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+
+  <div class="w-full" style="height: 400px;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/MU3UB_bVmUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
+  </div>
+</div>
