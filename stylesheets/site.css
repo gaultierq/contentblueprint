@@ -1960,6 +1960,10 @@ video {
   flex-direction: column;
 }
 
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
 .items-center{
   align-items: center;
 }
@@ -2786,6 +2790,10 @@ video {
 }
 
 @media (min-width: 768px){
+  .md\:block{
+    display: block;
+  }
+
   .md\:grid-cols-2{
     -ms-grid-columns: (minmax(0, 1fr))[2];
     grid-template-columns: repeat(2, minmax(0, 1fr));
