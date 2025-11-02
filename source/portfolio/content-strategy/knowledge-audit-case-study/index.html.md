@@ -72,4 +72,4 @@ The Knowledge Audit methodology offers significant advantages to any organizatio
 
 ------------------------------------------------------------------------
 
-By implementing this knowledge audit methodology, companies can ensure that they remain agile, informed, and well-equipped to tackle the challenges in their field.
+By implementing this knowledge audit methodology, companies can ensure that they remain agile, informed, and well-equipped to tackle the challenges in their field
