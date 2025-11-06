@@ -1,6 +1,7 @@
 ---
 title: Content Types
 category: content-strategy
+summary: Created comprehensive publishing guidelines defining content types, structures, and formats for internal knowledge sharing at Ubisoft, from research articles and case studies to social media content across platforms.
 ---
 
 # Content Types

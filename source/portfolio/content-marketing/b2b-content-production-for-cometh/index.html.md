@@ -1,6 +1,7 @@
 ---
 title: B2B Content Production for Cometh
 category: content-marketing
+summary: Built comprehensive editorial calendar and content pipeline for blockchain startup, producing case studies, demos, and technical content across multiple formats while collaborating closely with development teams.
 ---
 
 # B2B Content Production for Cometh

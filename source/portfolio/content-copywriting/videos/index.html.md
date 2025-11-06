@@ -1,6 +1,7 @@
 ---
 title: Videos
 category: content-copywriting
+summary: Led editorial team creating high-quality video content for Ubisoft and Cometh, developing production templates and methodologies for case studies, learning capsules, and thought leadership content.
 ---
 
 # Videos

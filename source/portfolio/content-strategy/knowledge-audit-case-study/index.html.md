@@ -1,6 +1,7 @@
 ---
 title: Knowledge Audit Case Study
 category: content-strategy
+summary: Developed a research methodology to align Ubisoft's content strategy with company priorities, identifying knowledge gaps across global teams and creating a 6-month editorial calendar for internal knowledge sharing.
 ---
 
 # Knowledge Audit Case Study

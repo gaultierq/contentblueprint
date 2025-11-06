@@ -1,6 +1,7 @@
 ---
 title: Editorial Calendar – Ubisoft
 category: content-marketing
+summary: Designed and managed editorial calendar supporting 8+ internal teams at Ubisoft, coordinating content production aligned with strategic priorities and maintaining publishing standards across global contributors.
 ---
 
 # Editorial Calendar – Ubisoft

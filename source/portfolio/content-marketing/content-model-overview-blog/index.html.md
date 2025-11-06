@@ -1,6 +1,7 @@
 ---
 title: Content Model Overview – Blog
 category: content-marketing
+summary: Designed structured content model defining metadata, categorization, and publishing workflows for blog posts, ensuring consistency, discoverability, and optimized user experience across the platform.
 ---
 
 # Content Model Overview – Blog

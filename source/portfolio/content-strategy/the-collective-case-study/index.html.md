@@ -1,6 +1,7 @@
 ---
 title: The Collective Case Study
 category: content-strategy
+summary: Led the creation of Ubisoft's internal knowledge hub serving 20,000+ employees across 19 countries, transitioning from fragmented tools to a centralized WordPress platform for comprehensive knowledge sharing and collaboration.
 ---
 
 # The Collective Case Study
