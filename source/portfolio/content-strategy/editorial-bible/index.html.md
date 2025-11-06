@@ -1,7 +1,6 @@
 ---
 title: Editorial Bible
 category: content-strategy
-summary: Developed a complete editorial framework including style guide, editorial book, and publishing guidelines to standardize content creation and ensure professional, consistent knowledge sharing across Ubisoft's global teams.
 ---
 
 # Editorial Bible

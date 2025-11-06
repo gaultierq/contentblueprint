@@ -1,7 +1,6 @@
 ---
 title: Videos
 category: content-copywriting
-summary: Led editorial team creating high-quality video content for Ubisoft and Cometh, developing production templates and methodologies for case studies, learning capsules, and thought leadership content.
 ---
 
 # Videos
@@ -9,6 +8,104 @@ summary: Led editorial team creating high-quality video content for Ubisoft and 
 Here are samples of videos I created based on different needs (thought leadership content, community content, case studies and interviews) of Cometh.
 
 For Ubisoft, the videos I made were internal-only and under NDA but below are samples of the creation and ROS of the videos that lean more towards knowledge content. You can jump to it here.
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+<div class="wp-block-embed__wrapper">
+<div class="iframe">
+<div id="player">
+
+</div>
+<div class="player-unavailable">
+<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
+<div class="submessage">
+Impossible d'exécuter JavaScript.
+</div>
+</div>
+</div>
+</div>
+</figure>
+
+
 
 ## Video Production Methodology 
 
@@ -20,28 +117,10 @@ At Ubisoft, I led the editorial team responsible for creating all internal knowl
 
 ## Videos
 
-<div class="grid md:grid-cols-2 gap-8 not-prose">
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/vqEcFyq-EE4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
+- [Watch on YouTube](https://www.youtube.com/watch?v=vqEcFyq-EE4)
+- [Watch on YouTube](https://www.youtube.com/watch?v=Ah8ejc2ScEQ)
+- [Watch on YouTube](https://www.youtube.com/watch?v=zO4XIpSOYak)
+- [Watch on YouTube](https://www.youtube.com/watch?v=i5sg4nFjGTU)
+- [Watch on YouTube](https://www.youtube.com/watch?v=5BB96y-zSdQ)
+- [Watch on YouTube](https://www.youtube.com/watch?v=MU3UB_bVmUA)
 
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ah8ejc2ScEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
-
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/zO4XIpSOYak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
-
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/i5sg4nFjGTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
-
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/5BB96y-zSdQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
-
-  <div class="w-full" style="height: 400px;">
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/MU3UB_bVmUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="rounded-lg"></iframe>
-  </div>
-</div>

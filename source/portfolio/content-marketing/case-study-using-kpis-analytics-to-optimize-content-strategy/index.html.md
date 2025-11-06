@@ -1,7 +1,6 @@
 ---
 title: Case Study: Using KPIs & Analytics to Optimize Content Strategy
-category: content-marketing
-summary: Implemented comprehensive analytics framework at Ubisoft to measure content performance, engagement, and knowledge application, using data-driven insights to optimize strategy and increase audience alignment.
+category: content-strategy
 ---
 
 # Case Study: Using KPIs & Analytics to Optimize Content Strategy

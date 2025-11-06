@@ -1,7 +1,6 @@
 ---
 title: Knowledge Audit Case Study
 category: content-strategy
-summary: Developed a research methodology to align Ubisoft's content strategy with company priorities, identifying knowledge gaps across global teams and creating a 6-month editorial calendar for internal knowledge sharing.
 ---
 
 # Knowledge Audit Case Study
@@ -73,4 +72,4 @@ The Knowledge Audit methodology offers significant advantages to any organizatio
 
 ------------------------------------------------------------------------
 
-By implementing this knowledge audit methodology, companies can ensure that they remain agile, informed, and well-equipped to tackle the challenges in their field
+By implementing this knowledge audit methodology, companies can ensure that they remain agile, informed, and well-equipped to tackle the challenges in their field.

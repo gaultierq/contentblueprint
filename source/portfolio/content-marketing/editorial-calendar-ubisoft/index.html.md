@@ -1,13 +1,12 @@
 ---
 title: Editorial Calendar – Ubisoft
 category: content-marketing
-summary: Designed and managed editorial calendar supporting 8+ internal teams at Ubisoft, coordinating content production aligned with strategic priorities and maintaining publishing standards across global contributors.
 ---
 
 # Editorial Calendar – Ubisoft
 
 <figure class="wp-block-image size-large">
-<img src="../../../images/portfolio/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" alt="Editorial Calendar Screenshot" width="1024" height="542" />
+<img src="../../../wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" class="wp-image-91" data-fetchpriority="high" decoding="async" srcset="https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png 1024w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-300x159.png 300w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-768x406.png 768w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1568x830.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="542" />
 </figure>
 
 The **Collective Editorial Calendar** was designed to facilitate a coordinated and efficient content production process across multiple Ubisoft teams. The goal was to create a structured action plan for sharing knowledge internally, highlighting thought leadership, and producing high-quality, actionable content. The calendar was governed by my team, ensuring consistency, relevance, and alignment with Ubisoft's priorities.

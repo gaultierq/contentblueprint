@@ -1,7 +1,6 @@
 ---
 title: Competitive Analysis
 category: content-strategy
-summary: Conducted comprehensive competitive analysis of 15 blockchain companies, evaluating positioning, content strategies, and audience targeting to develop differentiated branding and content plans for a B2B startup.
 ---
 
 # Competitive Analysis

@@ -4,7 +4,7 @@ layout: layout
 ---
 
 - # Get all portfolio pages and group by category
-- portfolio_pages = sitemap.resources.select { |r| r.path.start_with?('portfolio/') && r.path != 'portfolio/index.html' && r.data.title && !r.path.include?('write-samples') }
+- portfolio_pages = sitemap.resources.select { |r| r.path.start_with?('portfolio/') && r.path != 'portfolio/index.html' && r.data.title }
 - content_strategy = portfolio_pages.select { |p| p.data.category == 'content-strategy' }
 - content_marketing = portfolio_pages.select { |p| p.data.category == 'content-marketing' }
 - content_copywriting = portfolio_pages.select { |p| p.data.category == 'content-copywriting' }
