@@ -1,0 +1,2 @@
+- You can use "dev" to start a server
+- This website is deployed at https://contentblueprint.ovh, you can curl it to see the difference with before

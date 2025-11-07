@@ -10,7 +10,7 @@ layout: layout
 - content_copywriting = portfolio_pages.select { |p| p.data.category == 'content-copywriting' }
 
 - # Category colors
-- category_colors = { 'content-strategy' => { bg: 'bg-blue-100', text: 'text-blue-800', label: 'Content Strategy' }, 'content-marketing' => { bg: 'bg-green-100', text: 'text-green-800', label: 'Content Marketing' }, 'content-copywriting' => { bg: 'bg-purple-100', text: 'text-purple-800', label: 'Copywriting' } }
+- category_colors = { 'content-strategy' => { bg: 'bg-primary-light', text: 'text-primary-darker', label: 'Content Strategy' }, 'content-marketing' => { bg: 'bg-secondary-light', text: 'text-secondary-darker', label: 'Content Marketing' }, 'content-copywriting' => { bg: 'bg-accent-light', text: 'text-accent-darker', label: 'Copywriting' } }
 
 section class="bg-gradient-to-b from-purple-50 to-white py-20"
   div class="container mx-auto px-6"
@@ -20,9 +20,9 @@ section class="bg-gradient-to-b from-purple-50 to-white py-20"
 
       / Section navigation
       nav class="flex justify-center gap-4 mb-12 flex-wrap"
-        a href="#content-strategy" class="px-4 py-2 bg-blue-100 text-blue-800 rounded-full hover:bg-blue-200 transition text-sm font-medium" Content Strategy
-        a href="#content-marketing" class="px-4 py-2 bg-green-100 text-green-800 rounded-full hover:bg-green-200 transition text-sm font-medium" Content Marketing
-        a href="#copywriting" class="px-4 py-2 bg-purple-100 text-purple-800 rounded-full hover:bg-purple-200 transition text-sm font-medium" Copywriting
+        a href="#content-strategy" class="px-4 py-2 bg-primary-light text-primary-darker rounded-full hover:bg-primary-light-hover transition text-sm font-medium" Content Strategy
+        a href="#content-marketing" class="px-4 py-2 bg-secondary-light text-secondary-darker rounded-full hover:bg-secondary-light-hover transition text-sm font-medium" Content Marketing
+        a href="#copywriting" class="px-4 py-2 bg-accent-light text-accent-darker rounded-full hover:bg-accent-light-hover transition text-sm font-medium" Copywriting
 
       - if content_strategy.any?
         h2 id="content-strategy" class="text-3xl font-bold text-gray-900 mb-6 mt-12" Content Strategy
@@ -30,10 +30,10 @@ section class="bg-gradient-to-b from-purple-50 to-white py-20"
           - content_strategy.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
             = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
-              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition"
+              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition"
                 = page.data.title
               div class="mb-3"
-                span class="inline-block bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full" Content Strategy
+                span class="inline-block bg-primary-light text-primary-darker text-xs px-2 py-1 rounded-full" Content Strategy
               div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
                 = preview
 
@@ -43,10 +43,10 @@ section class="bg-gradient-to-b from-purple-50 to-white py-20"
           - content_marketing.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
             = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
-              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-green-600 transition"
+              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-secondary transition"
                 = page.data.title
               div class="mb-3"
-                span class="inline-block bg-green-100 text-green-800 text-xs px-2 py-1 rounded-full" Content Marketing
+                span class="inline-block bg-secondary-light text-secondary-darker text-xs px-2 py-1 rounded-full" Content Marketing
               div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
                 = preview
 
@@ -56,9 +56,9 @@ section class="bg-gradient-to-b from-purple-50 to-white py-20"
           - content_copywriting.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
             = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
-              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-purple-600 transition"
+              h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-accent transition"
                 = page.data.title
               div class="mb-3"
-                span class="inline-block bg-purple-100 text-purple-800 text-xs px-2 py-1 rounded-full" Copywriting
+                span class="inline-block bg-accent-light text-accent-darker text-xs px-2 py-1 rounded-full" Copywriting
               div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
                 = preview

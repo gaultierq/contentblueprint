@@ -1,4 +1,5 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
+const colors = require('tailwindcss/colors');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -10,12 +11,12 @@ module.exports = {
   safelist: [
     'hover:underline',
     'hover:cursor-pointer',
-    'bg-blue-100',
-    'bg-green-100',
-    'bg-purple-100',
-    'text-blue-800',
-    'text-green-800',
-    'text-purple-800',
+    'bg-primary-light',
+    'bg-secondary-light',
+    'bg-accent-light',
+    'text-primary-darker',
+    'text-secondary-darker',
+    'text-accent-darker',
   ],
   theme: {
 
@@ -25,9 +26,44 @@ module.exports = {
         screen: { raw: 'screen' },
       },
       colors: {
-        primary: "#27374D",
-        secondary:"#526D82",
-        accent: "#9DB2BF",
+        // Semantic color mappings using Tailwind's default colors
+        primary: {
+          DEFAULT: colors.blue[600],   // Main brand color
+          50: colors.blue[50],
+          100: colors.blue[100],
+          200: colors.blue[200],
+          600: colors.blue[600],
+          700: colors.blue[700],
+          800: colors.blue[800],
+          light: colors.blue[100],
+          'light-hover': colors.blue[200],
+          lightest: colors.blue[50],
+          dark: colors.blue[700],
+          darker: colors.blue[800],
+        },
+        secondary: {
+          DEFAULT: colors.green[600],   // Content marketing category
+          100: colors.green[100],
+          200: colors.green[200],
+          600: colors.green[600],
+          800: colors.green[800],
+          light: colors.green[100],
+          'light-hover': colors.green[200],
+          dark: colors.green[700],
+          darker: colors.green[800],
+        },
+        accent: {
+          DEFAULT: colors.purple[600],   // Copywriting category
+          100: colors.purple[100],
+          200: colors.purple[200],
+          600: colors.purple[600],
+          800: colors.purple[800],
+          light: colors.purple[100],
+          'light-hover': colors.purple[200],
+          dark: colors.purple[700],
+          darker: colors.purple[800],
+        },
+        // Legacy semantic colors (keeping for backward compatibility)
         active: "#2DB1BF",
         background: "#FEFEFE",
         background2: "#DDE6ED",

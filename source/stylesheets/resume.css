@@ -51,7 +51,7 @@ body {
     }
 
     c {
-        @apply px-1 pb-[2px] text-blue-700 font-semibold;
+        @apply px-1 pb-[2px] text-primary-dark font-semibold;
     }
 
     d {
