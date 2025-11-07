@@ -1,3 +1,19 @@
+@font-face {
+  font-family: 'Zalando Sans SemiExpanded';
+  src: url('../fonts/ZalandoSansSemiExpanded-VariableFont_wght.ttf') format('truetype-variations');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Zalando Sans SemiExpanded';
+  src: url('../fonts/ZalandoSansSemiExpanded-Italic-VariableFont_wght.ttf') format('truetype-variations');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

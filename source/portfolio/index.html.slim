@@ -15,8 +15,9 @@ layout: layout
 section class="bg-gradient-to-b from-purple-50 to-white py-20"
   div class="container mx-auto px-6"
     div class="max-w-4xl mx-auto"
-      h1 class="text-5xl font-bold text-gray-900 mb-4 text-center" Portfolio
-      p class="text-xl text-gray-600 mb-8 text-center" A selection of my work in content strategy, marketing, and copywriting — showcasing how I help organizations structure their communication, strengthen their brand, and scale their content operations. The projects include work from Ubisoft and Cometh.
+      h1 class="text-4xl font-bold text-gray-900 mb-4 text-center" Portfolio
+      div class="prose prose-lg mx-auto text-center mb-8"
+        p A selection of my work in content strategy, marketing, and copywriting — showcasing how I help organizations structure their communication, strengthen their brand, and scale their content operations. The projects include work from Ubisoft and Cometh.
 
       / Section navigation
       nav class="flex justify-center gap-4 mb-12 flex-wrap"
@@ -25,40 +26,40 @@ section class="bg-gradient-to-b from-purple-50 to-white py-20"
         a href="#copywriting" class="px-4 py-2 bg-accent-light text-accent-darker rounded-full hover:bg-accent-light-hover transition text-sm font-medium" Copywriting
 
       - if content_strategy.any?
-        h2 id="content-strategy" class="text-3xl font-bold text-gray-900 mb-6 mt-12" Content Strategy
+        h2 id="content-strategy" class="text-2xl font-bold text-gray-900 mb-6 mt-12" Content Strategy
         div class="grid md:grid-cols-2 gap-8 mb-12"
           - content_strategy.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
-            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
+            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group prose prose-sm" do
               h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition"
                 = page.data.title
-              div class="mb-3"
+              div class="mb-3 not-prose"
                 span class="inline-block bg-primary-light text-primary-darker text-xs px-2 py-1 rounded-full" Content Strategy
-              div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
+              div class="text-gray-600 mb-2 line-clamp-3 leading-relaxed"
                 = preview
 
       - if content_marketing.any?
-        h2 id="content-marketing" class="text-3xl font-bold text-gray-900 mb-6 mt-12" Content Marketing
+        h2 id="content-marketing" class="text-2xl font-bold text-gray-900 mb-6 mt-12" Content Marketing
         div class="grid md:grid-cols-2 gap-8 mb-12"
           - content_marketing.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
-            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
+            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group prose prose-sm" do
               h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-secondary transition"
                 = page.data.title
-              div class="mb-3"
+              div class="mb-3 not-prose"
                 span class="inline-block bg-secondary-light text-secondary-darker text-xs px-2 py-1 rounded-full" Content Marketing
-              div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
+              div class="text-gray-600 mb-2 line-clamp-3 leading-relaxed"
                 = preview
 
       - if content_copywriting.any?
-        h2 id="copywriting" class="text-3xl font-bold text-gray-900 mb-6 mt-12" Copywriting
+        h2 id="copywriting" class="text-2xl font-bold text-gray-900 mb-6 mt-12" Copywriting
         div class="grid md:grid-cols-2 gap-8 mb-12"
           - content_copywriting.each do |page|
             - preview = page.data.summary || page.render(layout: false).gsub(/<[^>]*>/, '').split("\n").find { |l| l.strip.length > 50 }&.strip&.slice(0, 200) || ''
-            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group" do
+            = link_to page.url, class: "block bg-white p-6 rounded-lg shadow-sm border border-gray-200 hover:shadow-md transition group prose prose-sm" do
               h3 class="text-xl font-bold text-gray-900 mb-2 group-hover:text-accent transition"
                 = page.data.title
-              div class="mb-3"
+              div class="mb-3 not-prose"
                 span class="inline-block bg-accent-light text-accent-darker text-xs px-2 py-1 rounded-full" Copywriting
-              div class="text-gray-600 text-base mb-2 line-clamp-3 leading-relaxed"
+              div class="text-gray-600 mb-2 line-clamp-3 leading-relaxed"
                 = preview

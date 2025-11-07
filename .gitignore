@@ -47,3 +47,4 @@ terraform.rc
 # End of https://www.toptal.com/developers/gitignore/api/terraform
 vendor/
 original_site
+.playwright-mcp/

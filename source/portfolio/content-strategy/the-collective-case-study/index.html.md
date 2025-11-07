@@ -8,7 +8,8 @@ category: content-strategy
 ### **Ubisoft's Knowledge Sharing Hub** 
 
 <figure class="wp-block-image">
-<img src="https://fat.canonic.fr/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" class="wp-image-91" data-fetchpriority="high" decoding="async" srcset="https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png 1024w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-300x159.png 300w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-768x406.png 768w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1568x830.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="542" />
+
+<img src="images/portfolio/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" class="wp-image-91" data-fetchpriority="high" decoding="async" srcset="https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png 1024w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-300x159.png 300w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-768x406.png 768w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1568x830.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="542" />
 </figure>
 
 **Introduction**
