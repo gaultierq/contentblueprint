@@ -9,7 +9,7 @@ category: content-strategy
 
 <figure class="wp-block-image">
 
-<img src="images/portfolio/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" class="wp-image-91" data-fetchpriority="high" decoding="async" srcset="https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png 1024w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-300x159.png 300w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-768x406.png 768w, https://contentblueprint.ovh/wp-content/uploads/2025/01/Screenshot-2024-05-12-at-11.47.37-1568x830.png 1568w" sizes="(max-width: 1024px) 100vw, 1024px" width="1024" height="542" />
+<img src="/images/portfolio/2025/01/Screenshot-2024-05-12-at-11.47.37-1024x542.png" class="wp-image-91" />
 </figure>
 
 **Introduction**
@@ -66,10 +66,3 @@ As Editorial Team Lead, I was tasked to enhance internal communication and knowl
 
 The Collective stands as a testament to Ubisoft's commitment to fostering an innovative and collaborative culture through effective knowledge management. This platform not only bridges the informational gaps that previously existed but also enhances the way employees engage with and contribute to Ubisoft's reservoir of knowledge.
 
-<figure class="wp-block-media-text__media">
-
-</figure>
-
-Just a csv
-
-[Download Resume](../../../wp-content/uploads/2025/03/Messages-Rec%cc%a7us-Page-1-7.pdf)

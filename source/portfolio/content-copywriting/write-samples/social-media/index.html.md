@@ -71,7 +71,7 @@ Managed the entire page of Alembic (before it merged with Cometh):
 
 ## LinkedIn
 
-![LinkedIn post example](../../../../wp-content/uploads/2025/03/Screenshot-2025-03-28-at-06.52.06-1024x839.png)
+<img src="/images/portfolio/2025/01/Screenshot-2025-03-28-at-06.52.06-1024x839.png" class="wp-image-91" />
 
 [Read post here](https://www.linkedin.com/posts/catherine-ashley_web3-blockchain-technology-activity-7176904877638045696-zRu5?utm_source=share&utm_medium=member_desktop).
 
