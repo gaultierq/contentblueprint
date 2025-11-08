@@ -13,25 +13,25 @@ These are a sample of articles I've written for Ubisoft, Cometh and video game w
 
 **Research Report:** <a href="https://docs.google.com/document/d/1B1FzF_7kS9-Fi643WcSbbF8KIKgBwTvt6_reuH_gLG0/edit?tab=t.0" target="_blank">"AI in Games"</a>
 
-**Case Study:** <a href="https://blog.cometh.io/how-lacoste-created-a-first-class-web3-experience-with-alembic-solutions/" target="_blank">"How Lacoste created a first-class Web3 experience with Cometh solutions"</a>
+**Case Study:** <a href="https://web.archive.org/web/20250211142309/https://blog.cometh.io/how-lacoste-created-a-first-class-web3-experience-with-alembic-solutions/" target="_blank">"How Lacoste created a first-class Web3 experience with Cometh solutions"</a>
 
 **White Paper:** <a href="https://docs.google.com/document/d/1FngE47067MD4Z1m3iYyER_xYPQ564ktAZCyfIFUtyJo/edit?usp=drive_link" target="_blank">"Games-as-a-Platform"</a>
 
-**Product Case Study:** <a href="https://blog.cometh.io/meet-comeths-nft-marketplace-the-white-label-solution-for-your-web3-project/" target="_blank">"Meet Cometh's NFT Marketplace: The White Label Solution For Your Web3 Project"</a>
+**Product Case Study:** <a href="https://web.archive.org/web/20250427011512/https://blog.cometh.io/meet-comeths-nft-marketplace-the-white-label-solution-for-your-web3-project/" target="_blank">"Meet Cometh's NFT Marketplace: The White Label Solution For Your Web3 Project"</a>
 
 **Production Report:** <a href="https://docs.google.com/document/d/16XoRiepmix7GgEYs2yccT7eETnwpBbzZgcCC70xlY-s/edit?usp=drive_link" target="_blank">"Worldbuilding"</a>
 
-**Technical Product Explainer:** <a href="https://blog.cometh.io/ethereum-name-service-identities-subdomains-and-layer-2/" target="_blank">"Ethereum Name Service: Identities, Subdomains, and Layer 2"</a>
+**Technical Product Explainer:** <a href="https://web.archive.org/web/20250328145825/https://blog.cometh.io/ethereum-name-service-identities-subdomains-and-layer-2/" target="_blank">"Ethereum Name Service: Identities, Subdomains, and Layer 2"</a>
 
-**Partnership Deep Dive:** <a href="https://blog.cometh.io/cometh-x-fanlive-rugby-taking-the-sport-digital/" target="_blank">"Cometh x FanLive Rugby: Taking The Sport Digital"</a>
+**Partnership Deep Dive:** <a href="https://web.archive.org/web/20250426230940/https://blog.cometh.io/cometh-x-fanlive-rugby-taking-the-sport-digital/" target="_blank">"Cometh x FanLive Rugby: Taking The Sport Digital"</a>
 
-**Educational Long-Form:** <a href="https://blog.cometh.io/why-biometric-wallets-are-the-future-of-web3/" target="_blank">"Why Biometric Wallets Are the Future of Web3"</a>
+**Educational Long-Form:** <a href="https://web.archive.org/web/20250426231427/https://blog.cometh.io/why-biometric-wallets-are-the-future-of-web3/" target="_blank">"Why Biometric Wallets Are the Future of Web3"</a>
 
-**Product Explainer:** <a href="https://blog.cometh.io/cometh-connect-your-biometric-smart-wallet-as-a-service/" target="_blank">"Cometh Connect: Your Biometric Smart-Wallet As-a-Service"</a>
+**Product Explainer:** <a href="https://web.archive.org/web/20250516205638/https://blog.cometh.io/cometh-connect-your-biometric-smart-wallet-as-a-service/" target="_blank">"Cometh Connect: Your Biometric Smart-Wallet As-a-Service"</a>
 
-**Explainer:** <a href="https://blog.cometh.io/gas-fees-explained-ethereum-gas-fees-and-the-role-of-cometh-connect/" target="_blank">"Gas Fees Explained: Ethereum, Gas Fees, and the Role of Cometh Connect"</a>
+**Explainer:** <a href="https://web.archive.org/web/20250426233435/https://blog.cometh.io/gas-fees-explained-ethereum-gas-fees-and-the-role-of-cometh-connect/" target="_blank">"Gas Fees Explained: Ethereum, Gas Fees, and the Role of Cometh Connect"</a>
 
-**Best Practices:** <a href="https://blog.cometh.io/best-practices-for-launching-an-nft-collection/" target="_blank">"Best Practices For Launching an NFT Collection"</a>
+**Best Practices:** <a href="https://web.archive.org/web/20250516195516/https://blog.cometh.io/best-practices-for-launching-an-nft-collection/" target="_blank">"Best Practices For Launching an NFT Collection"</a>
 
 **Feature Article:** <a href="https://www.girlsongames.ca/2014/08/30/gaming-montreal-indie-kickstarter-projects/" target="_blank">"Gaming Montreal: Indie Kickstarter Projects"</a>
 
