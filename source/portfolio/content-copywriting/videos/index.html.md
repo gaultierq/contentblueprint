@@ -11,97 +11,37 @@ For Ubisoft, the videos I made were internal-only and under NDA but below are sa
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="Meet Shoto, back-end developer at Cometh" width="800" height="450" src="https://www.youtube.com/embed/vqEcFyq-EE4?start=18&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="Passkeys, Ethereum Killers, Cancun-Deneb Fork, ETHCC6 with Jerome De Tychey" width="800" height="450" src="https://www.youtube.com/embed/Ah8ejc2ScEQ?start=1&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="Let's Talk About JONUM/GEDI with Jerome De Tychey" width="800" height="450" src="https://www.youtube.com/embed/zO4XIpSOYak?start=3&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="C'EST QUOI L'ACCOUNT ABSTRACTION ? Avec Jerome De Tychey" width="800" height="450" src="https://www.youtube.com/embed/i5sg4nFjGTU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="Building a AAA Web3 Game - Cometh's Alembic & Life Beyond" width="800" height="450" src="https://www.youtube.com/embed/5BB96y-zSdQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
 <div class="wp-block-embed__wrapper">
-<div class="iframe">
-<div id="player">
-
-</div>
-<div class="player-unavailable">
-<h1 id="une-erreur-sest-produite." class="message">Une erreur s'est produite.</h1>
-<div class="submessage">
-Impossible d'exécuter JavaScript.
-</div>
-</div>
-</div>
+<iframe title="Pourquoi récolter les données blockchain ? - Anastasia Melachrinos, Kaiko" width="800" height="450" src="https://www.youtube.com/embed/MU3UB_bVmUA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </figure>
 
@@ -114,13 +54,3 @@ At Ubisoft, I led the editorial team responsible for creating all internal knowl
 [Case Study From The Ground Up Template Example](https://docs.google.com/document/d/1z7Nu_PB3TcEiIFhD7-SsxO1gSvvpSy9YPt5zKBmY0QY/edit?tab=t.0)
 [Learning Capsule Video Template Example](https://docs.google.com/document/d/1v5vQ3VNcsQv4j_2lL-IfPImmfA76jFe4-3MMVTGPpFo/edit?tab=t.0)
 [Product Promotion Template Example](https://docs.google.com/document/d/1oRQ51vGNOxAk1InWigB_6XaTLt3weXurxOcbwK4XecI/edit?tab=t.0)
-
-## Videos
-
-- [Watch on YouTube](https://www.youtube.com/watch?v=vqEcFyq-EE4)
-- [Watch on YouTube](https://www.youtube.com/watch?v=Ah8ejc2ScEQ)
-- [Watch on YouTube](https://www.youtube.com/watch?v=zO4XIpSOYak)
-- [Watch on YouTube](https://www.youtube.com/watch?v=i5sg4nFjGTU)
-- [Watch on YouTube](https://www.youtube.com/watch?v=5BB96y-zSdQ)
-- [Watch on YouTube](https://www.youtube.com/watch?v=MU3UB_bVmUA)
-
