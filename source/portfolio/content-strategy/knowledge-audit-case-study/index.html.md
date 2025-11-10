@@ -1,6 +1,7 @@
 ---
 title: Knowledge Audit Case Study
 category: content-strategy
+summary: A case study on the "Knowledge Audit" methodology I developed at Ubisoft to align leadership priorities with team needs and build a data-driven editorial roadmap.
 ---
 
 # Knowledge Audit Case Study

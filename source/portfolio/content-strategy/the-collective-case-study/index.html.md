@@ -1,6 +1,7 @@
 ---
 title: The Collective Case Study
 category: content-strategy
+summary: A case study on leading the transformation of Ubisoft's internal blog into The Collective, a global platform for knowledge sharing and employee engagement.
 ---
 
 # The Collective Case Study

@@ -1,6 +1,7 @@
 ---
 title: Building a Product Page for a Web3 Wallet Solution
 category: content-marketing
+summary: An initiative where I led the creation of a clear, conversion-driven product page that showcased the wallet's features, business value, and seamless integration for Web2 and Web3 audiences.
 ---
 
 # Building a Product Page for a Web3 Wallet Solution

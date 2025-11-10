@@ -1,6 +1,7 @@
 ---
 title: Content Model Overview – Blog
 category: content-marketing
+summary: A framework I designed to standardize blog and product content through structured metadata, improving discoverability, editorial efficiency, and SEO performance.
 ---
 
 # Content Model Overview – Blog

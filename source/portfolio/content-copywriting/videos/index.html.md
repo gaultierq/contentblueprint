@@ -1,6 +1,7 @@
 ---
 title: Videos
 category: content-copywriting
+summary: Here are samples of videos I created for Ubisoft and Cometh, spanning thought leadership, community content, case studies, and interviews.
 ---
 
 # Videos

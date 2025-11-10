@@ -1,6 +1,7 @@
 ---
 title: Social Media
 category: content-copywriting
+summary: Here are examples of the B2B social content I managed for Cometh and Alembic across LinkedIn and X, including product launches, partnerships, thought leadership, and community posts.
 ---
 
 # Social Media

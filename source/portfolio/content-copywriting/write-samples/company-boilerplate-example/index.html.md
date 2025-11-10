@@ -1,6 +1,7 @@
 ---
 title: Company Boilerplate Example
 category: content-copywriting
+summary: Here's an example of the company boilerplate I wrote for Cometh, summarizing its mission, products, and key clients to clearly communicate the brand's Web3 vision and expertise.
 ---
 
 # Company Boilerplate Example

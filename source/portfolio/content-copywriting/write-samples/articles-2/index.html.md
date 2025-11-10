@@ -1,6 +1,7 @@
 ---
 title: Articles
 category: content-copywriting
+summary: Here are sample articles I wrote for Ubisoft, Cometh, and Girls On Games; some Ubisoft content is redacted for internal confidentiality.
 ---
 
 # Articles

@@ -1,6 +1,7 @@
 ---
 title: Competitive Analysis
 category: content-strategy
+summary: An example on how I analyzed 15 blockchain and tech competitors to define positioning, audience targeting, and content strategy for a B2B blockchain startup.
 ---
 
 # Competitive Analysis

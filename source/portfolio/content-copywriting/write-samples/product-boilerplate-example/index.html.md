@@ -1,6 +1,7 @@
 ---
 title: Product Boilerplate Example
 category: content-copywriting
+summary: Here's a product boilerplate I wrote for Cometh Connect, a biometric smart wallet that simplifies Web3 onboarding and enhances security through Account Abstraction-as-a-Service.
 ---
 
 # Product Boilerplate Example

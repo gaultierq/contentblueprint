@@ -1,6 +1,7 @@
 ---
 title: Content Types
 category: content-strategy
+summary: I outline how I defined and implemented clear content types and templates to improve communication consistency and cross-channel engagement.
 ---
 
 # Content Types

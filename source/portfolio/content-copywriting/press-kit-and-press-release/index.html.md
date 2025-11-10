@@ -1,7 +1,7 @@
 ---
 title: Press Kit and Press Release
 category: content-copywriting
-summary: Created comprehensive press kits and press releases for Cometh, including the Alembic product launch and Cometh Connect announcements, designed to control messaging, build credibility, and maximize media exposure.
+summary: This is an example of a press kit and press release I created for Cometh.
 ---
 
 # Press Kit and Press Release

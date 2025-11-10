@@ -1,6 +1,7 @@
 ---
 title: B2B Content Production for Cometh
 category: content-marketing
+summary: A project in which I built and managed Cometh's entire content and communications pipeline, establishing an editorial calendar and producing multi-format content to support its blockchain tools and launches.
 ---
 
 # B2B Content Production for Cometh

@@ -1,6 +1,7 @@
 ---
 title: Editorial Bible
 category: content-strategy
+summary: A breakdown on how I created Ubisoft's Editorial Bible—a unified framework for tone, structure, and publishing workflows that standardized content across teams.
 ---
 
 # Editorial Bible

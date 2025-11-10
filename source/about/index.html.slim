@@ -2,65 +2,37 @@
 title: About Me
 ---
 
-section class="bg-gradient-to-b from-blue-50 to-white py-20"
+section class="py-20"
   div class="container mx-auto px-6"
     div class="max-w-4xl mx-auto"
-      h1 class="text-4xl font-bold text-gray-900 mb-4 text-center" About Me
-      p class="text-xl text-gray-600 mb-12 text-center" Content strategist & marketer focused on clarity, structure, and impact
+      div class="mb-6 text-center"
+        img src=image_path('snow.gif') alt="Snow animation" class="mx-auto rounded-lg shadow-lg"
 
       div class="prose prose-lg max-w-none"
-        p I'm a bilingual (English–French) content strategist and marketer with over eight years of experience helping organizations communicate clearly and consistently across teams, markets, and channels.
+        p.text-2xl Hey !
 
-        p My background combines <strong>content strategy, marketing, and knowledge management</strong>, shaped by experience in both global companies and startups. I've led projects ranging from editorial strategy and internal communication to product messaging and campaign management.
+        p I'm Catherine Ashley, and I was born and raised in Montréal, Québec, now living in France since 2018.
 
-        p Before moving into content, I studied <strong>cultural anthropology</strong>, which gave me a strong foundation in research, audience understanding, and storytelling across cultures.
+        p I've been creating content since 2014 when I was a video game journalist for Montral-based website Girls On Games, where I wrote articles, did interviews, live streams and videos with just my phone, edited in iMovies with zero experience.
 
-        p I work with companies that want to align their content with business goals—whether that means building a scalable strategy, improving internal collaboration, or producing effective content that reaches the right audience.
+        p I come from a cultural anthropology background and I ended up doing my master's thesis on media imperialism and independent video games (which can apply to any field really, when talking about oligopoly in different industries, and themes of dominance and resistance, startups vs large, established companies, etc).
 
-        h2 Skills & Expertise
+        p I had to quit Girls on Games in 2016 when I joined Ubisoft to help animate the internal community (and by that, I mean the 25k + employees worldwide) by creating engaging, useful content that would help teams in sharing what they know, what they've learned and how they can do better.
 
-        div class="grid md:grid-cols-2 gap-8 mb-12 not-prose"
-          div class="prose prose-sm"
-            h3 Content Strategy
-            ul
-              li Editorial frameworks and planning
-              li Audience research and positioning
-              li Content governance and workflow design
-              li Multi-channel content operations
+        p The marriage between anthropology and content, whether creation, strategy, or marketing, feels natural: both aim to understand people, their needs, behaviors, and the stories they tell about themselves, so we can create things that actually align with them.
 
-          div class="prose prose-sm"
-            h3 Content Marketing
-            ul
-              li Campaign development (B2B & B2C)
-              li SEO and web optimization
-              li Email and social media strategy
-              li Performance analysis and reporting
+        p
+          | And in between my education, work and playing video games, I've also travelled around the world,
+          = ' '
+          a href="https://lichess.org/@/discolimonade" target="_blank" rel="noopener" class="text-primary hover:underline" play chess
+          | , learned how to kitesurf and recently have taken a long sabbatical to welcome and care for my baby boy. Oh, and
+          = ' '
+          a href="https://www.goodreads.com/user/show/4007892" target="_blank" rel="noopener" class="text-primary hover:underline" I read a lot
+          = ' '
+          | too.
 
-          div class="prose prose-sm"
-            h3 Copywriting
-            ul
-              li Website and product messaging
-              li Articles, newsletters, and case studies
-              li Brand and marketing collateral
-              li Technical explainers and documentation
-
-          div class="prose prose-sm"
-            h3 Project Management
-            ul
-              li Cross-functional collaboration
-              li Agile delivery
-              li Stakeholder alignment
-              li Timeline and budget management
-
-        h2 Background
-
-        p I've led internal communication platforms for 25,000+ employees, built content strategies for startups, and managed cross-functional creative teams. My experience spans <strong>tech, gaming, education, and communication</strong>, but my approach stays consistent: understand the audience, define the message, and deliver content that supports real goals.
-
-        div class="mt-12 p-6 bg-blue-50 rounded-lg not-prose"
-          div class="prose prose-sm"
-            h3 Let's Work Together
-            p I collaborate with companies, agencies, and teams looking to strengthen their content strategy, streamline workflows, or scale their marketing operations.
-            p <strong>Get in touch</strong> to discuss projects, consulting opportunities, or freelance work.
-            div class="flex gap-4 mt-4 not-prose"
-              = link_to "Get in touch", "/contact", class: "inline-block bg-primary text-white px-6 py-2 rounded hover:bg-primary-dark transition"
-              = link_to "View Resume", "/resume", class: "inline-block bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition"
+      div class="mt-6 not-prose"
+        div class="flex flex-wrap gap-4"
+          a href="https://www.linkedin.com/in/catherine-ashley/" target="_blank" rel="noopener" class="inline-block bg-primary text-white px-6 py-2 rounded hover:bg-primary-dark transition"
+            | LinkedIn
+          = link_to "View Resume", "/resume", class: "inline-block bg-gray-600 text-white px-6 py-2 rounded hover:bg-gray-700 transition"
